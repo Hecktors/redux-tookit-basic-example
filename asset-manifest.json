@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-tookit-basic-example.git/static/css/main.401cb9f0.chunk.css",
+    "main.js": "/redux-tookit-basic-example.git/static/js/main.7947a9ab.chunk.js",
+    "main.js.map": "/redux-tookit-basic-example.git/static/js/main.7947a9ab.chunk.js.map",
+    "runtime-main.js": "/redux-tookit-basic-example.git/static/js/runtime-main.eccee820.js",
+    "runtime-main.js.map": "/redux-tookit-basic-example.git/static/js/runtime-main.eccee820.js.map",
+    "static/js/2.de20cd19.chunk.js": "/redux-tookit-basic-example.git/static/js/2.de20cd19.chunk.js",
+    "static/js/2.de20cd19.chunk.js.map": "/redux-tookit-basic-example.git/static/js/2.de20cd19.chunk.js.map",
+    "index.html": "/redux-tookit-basic-example.git/index.html",
+    "static/css/main.401cb9f0.chunk.css.map": "/redux-tookit-basic-example.git/static/css/main.401cb9f0.chunk.css.map",
+    "static/js/2.de20cd19.chunk.js.LICENSE.txt": "/redux-tookit-basic-example.git/static/js/2.de20cd19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eccee820.js",
+    "static/js/2.de20cd19.chunk.js",
+    "static/css/main.401cb9f0.chunk.css",
+    "static/js/main.7947a9ab.chunk.js"
+  ]
+}
