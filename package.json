@@ -13,7 +13,7 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "http://hecktors.github.io/redux-tookit-basic-example.git",
+  "homepage": "http://hecktors.github.io/redux-tookit-basic-example",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
